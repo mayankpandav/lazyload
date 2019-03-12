@@ -1,7 +1,9 @@
 {
-  "name": "lazyload",
+  "name": "lazyloading",
   "version": "0.1.0-alpha",
-  "private": true,
+  "description": "Lazyload Image",
+  "author": "Mayank Pandav <mpandav1998@gmail.com>",
+ 
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
