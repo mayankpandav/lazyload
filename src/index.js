@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import App from './App';
+import Image from './LazyImage';
 
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Image />, document.getElementById('root'));

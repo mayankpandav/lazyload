@@ -1,6 +1,6 @@
 {
-  "name": "lazyloading",
-  "version": "0.1.0-alpha",
+  "name": "loadlazy",
+  "version": "0.1.2-alpha",
   "description": "Lazyload Image",
   "author": "Mayank Pandav <mpandav1998@gmail.com>",
  
